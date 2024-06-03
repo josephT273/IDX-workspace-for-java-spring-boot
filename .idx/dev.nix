@@ -13,6 +13,9 @@
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
     extensions = [
       # "vscodevim.vim"
+      "vscjava.vscode-java-pack"
+      "vmware.vscode-boot-dev-pack"
+      "shivaprasanth.dothttp-code"
     ];
     # Enable previews
     previews = {
